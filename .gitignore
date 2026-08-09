@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/run_log.csv
+data/backtest_results.csv
+.venv/
